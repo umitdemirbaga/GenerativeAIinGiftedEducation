@@ -1,2 +1,2 @@
-# GenerativeAIinGiftedEducation
+# GiftGEN
 This repository contains the source code for the EduGEN system, a system of new contributions using Generative Adversarial Networks and several machine learning algorithms to solve issues related to scarcity and diversity in data for educational research. EduGEN synthesises data and increases the size and diversity of the dataset, leading to highly improved performance and generalizability of the predictive model. It adopts Decision Trees, Random Forest, Linear Regression, XGBoost, and Support Vector Regression, among others, to learn complex patterns and associations in the data to support a personalised learning experience and ultimately achieve academic excellence for gifted students. 
